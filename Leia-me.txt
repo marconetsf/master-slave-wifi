@@ -1,0 +1,1 @@
+Seriá implementado a função de gravação de arquivos na memória SPIFFS (SPI Flash File System) que será encarregado de gravar um log com o json envolvendo todos os dispositivos cadastrados e onlines que já se comunicaram com o master.
